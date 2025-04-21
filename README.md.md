@@ -47,18 +47,11 @@ streamlit run app.py
 
 ---
 
-## 🌐 Quer compartilhar com outras pessoas?
-
-- Suba este projeto no [Streamlit Cloud](https://streamlit.io/cloud)
-- Ele criará um link público que você pode enviar para qualquer pessoa! 💬
-
----
-
 ## 📌 Status
 
 Este projeto é uma **base inicial**, pronta para ser expandida com novas funcionalidades, novas áreas do direito, integração com bancos de dados jurídicos, etc.
 
-Desenvolvido com 💻 e ⚖️ por Júlia.
+Desenvolvido com 💻 e ⚖️ por Júlia Lopes.
 
 
 
