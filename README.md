@@ -35,4 +35,4 @@ BGE M3-Embedding: Multi-Lingual, Multi-Functionality, Multi-Granularity Text Emb
 Jianlv Chen, Shitao Xiao, Peitian Zhang, Kun Luo, Defu Lian, Zheng Liu
 arXiv:2402.03216
 
-💡 Feito com propósito educacional por Júlia — Advogada & entusiasta de IA 💻⚖️
+💡 Feito com propósito educacional por Júlia Lopes — Advogada & entusiasta de IA 💻⚖️
